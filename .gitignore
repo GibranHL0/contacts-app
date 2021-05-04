@@ -1,0 +1,25 @@
+.vscode
+/api/__pycache__
+/contacts-front/node_modules
+/contacts-front/README.md
+/contacts-front/.DS_Store
+/contacts-front/dist
+
+# local env files
+/contacts-front/.env.local
+/contacts-front/.env.*.local
+
+# Log files
+/contacts-front/npm-debug.log*
+/contacts-front/yarn-debug.log*
+/contacts-front/yarn-error.log*
+/contacts-front/pnpm-debug.log*
+
+# Editor directories and files
+/contacts-front/.idea
+/contacts-front/.vscode
+/contacts-front/*.suo
+/contacts-front/*.ntvs*
+/contacts-front/*.njsproj
+/contacts-front/*.sln
+/contacts-front/*.sw?
