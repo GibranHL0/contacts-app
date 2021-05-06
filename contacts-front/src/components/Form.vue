@@ -39,7 +39,7 @@
                     </div>
                     <button class="bg-black hover:bg-red-400 mx-auto text-white px-2 py-2 rounded-md" type="submit">Create Account</button>
                 </form>
-                <a class=" block no-underline text-sm text-gray-900 w-full text-center" href="/login">Cancel</a>
+                <a class=" block no-underline text-sm text-gray-900 w-full text-center">Cancel</a>
             </div>
         </div>
     </div>
